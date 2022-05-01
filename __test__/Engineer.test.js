@@ -1,4 +1,3 @@
-const { exportAllDeclaration } = require('@babel/types');
 const Engineer = require('../lib/Engineer')
 
 test('Get GitHub UserName', () => {
