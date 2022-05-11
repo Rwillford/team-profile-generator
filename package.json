@@ -7,12 +7,13 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose test/*"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rwillford/team-profile-generator.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -21,6 +22,6 @@
   "homepage": "https://github.com/Rwillford/team-profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^28.0.3"
+    "jest": "^28.1.0"
   }
 }
