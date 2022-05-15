@@ -64,7 +64,7 @@ const addToTeam = () => {
     ])
         .then((answer) => {
 
-            //Add another or generate the page
+            //Add another or generating the page
             if (answer.addAnother) {
                 addEmployee()
             } else {
