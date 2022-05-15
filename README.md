@@ -30,3 +30,7 @@ Next I worked on the index.js and created my prompted questions<br>
 After that I created the pagetemplate for all my answered questions to go to and be created in an html file.<br>
 ![Screenshot 2022-05-15 185158](https://user-images.githubusercontent.com/99914942/168499804-b7348d5f-6c4d-442e-a351-a178065d7d9e.jpg)
 Here is a video of the whole application<br>
+
+
+https://user-images.githubusercontent.com/99914942/168499868-c7dfb112-2ed2-418b-8991-2c9c9bc8ce67.mp4
+
